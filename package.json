@@ -1,0 +1,17 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A chat app using WBS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "ubuntu04",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "moment": "^2.24.0"
+  }
+}
