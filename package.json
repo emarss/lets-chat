@@ -10,9 +10,9 @@
   "author": "ubuntu04",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "handlebars": "^4.7.6",
-    "moment": "^2.24.0",
+    "express": "^4.22.0",
+    "handlebars": "^4.7.7",
+    "moment": "^2.29.4",
     "uuid": "^7.0.3"
   }
 }
